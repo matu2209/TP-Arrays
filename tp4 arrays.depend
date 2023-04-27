@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1681950896 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\tp 3 funciones\tp4 arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1680719600 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\tp 3 funciones\tp4 arrays\pila.c
+	"pila.h"
+
+1679785085 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\tp 3 funciones\tp4 arrays\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1680719600 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\arrays\tp4 arrays\pila.c
+	"pila.h"
+
+1679785085 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\arrays\tp4 arrays\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1682550567 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\1\arrays\tp4 arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
